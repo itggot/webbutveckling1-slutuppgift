@@ -65,7 +65,7 @@ Minst tre "sidor" (siten *kan* ha enbart en html-fil, men då får ni simulera f
 
 ### Bilder
 
-Minst en bild där du använder lager och lagermaskar för att kombinera två olika bilder. Kom ihåg PSD-filen!
+Minst en bild där du använder lager och lagermaskar för att kombinera flera olika bilder. Kom ihåg PSD-filen!
 
 ### Anpassning till vald enhet
 
