@@ -55,9 +55,6 @@ Varje tillfälle du arbetar med siten ska du dokumentera:
 
 Utvecklingsdagboken ska sammanställas i ett dokument och lämnas in i misc-mappen, eller som en länk till en GitHub-wiki.
 
-Innan du börjar koda sidan skall du ha gjort två skisser över hur din flex ska fungera, 
-en för mobil och en för desktop.
-
 ## Utforming av sidan
 
 Sidans innehåll och utformning är upp till er, med följande förbehåll
