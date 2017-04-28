@@ -30,7 +30,7 @@ Vilka enheter (och orientering) din site ska fungera på (3.st). Namn och dimens
 
 ### Designskisser ###
 
-Skisser som visar övergripande layout för siren. En skiss per utvald enhet.
+Skisser som visar övergripande layout för siten. En skiss per utvald enhet.
 
 Spara skisserna i misc-mappen.
 
